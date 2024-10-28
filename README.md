@@ -1,2 +1,2 @@
-# Ola_Word
+# Olá, Word
  Primeiro repositório versionado
